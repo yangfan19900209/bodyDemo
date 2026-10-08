@@ -1,0 +1,53 @@
+BodyParts3D full-body study — model asset attribution and license
+
+Original data: BodyParts3D / The Database Center for Life Science (DBCLS)
+BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan
+
+License retained for the acquired historical OBJ mirror and model derivative:
+Creative Commons Attribution-ShareAlike 2.1 Japan (CC BY-SA 2.1 JP)
+https://creativecommons.org/licenses/by-sa/2.1/jp/
+https://creativecommons.org/licenses/by-sa/2.1/jp/legalcode
+
+Original database: https://lifesciencedb.jp/bp3d/
+Official archive: https://dbarchive.biosciencedbc.jp/en/bodyparts3d/
+OBJ mirror used: https://github.com/jixiangying/anatomy/tree/main/isa_BP3D_4.0_obj_99
+Additional 4.3 lung-parenchyma mirror: https://github.com/olivercase/body_parts_3d_api
+Mirror/index credits: jixiangying / Human Anatomy Explorer; olivercase.
+The 4.0 OBJ files retain historical CC BY-SA 2.1 Japan headers. The added 4.3
+lung OBJ files retain their version/FMA/name headers, and their mirror README
+declares the same historical BodyParts3D license.
+
+Current official declaration (checked 2026-10-08):
+https://dbarchive.biosciencedbc.jp/en/bodyparts3d/lic.html
+The official page, last updated 2025-02-27, now declares Creative Commons
+Attribution 4.0 International (CC BY 4.0). The mirror files actually acquired
+for this package retain older CC BY-SA 2.1 Japan license headers. This package
+preserves attribution and ShareAlike under those accompanying historical terms;
+it does not describe the historical license as the current official declaration.
+
+Adaptations for this demo: selected 770 full-body OBJ components without cropping
+the head, limbs, feet or skin; changed coordinates/scale; simplified meshes;
+assigned ivory/red/blue and organ/skin materials; grouped major vessel and organ
+segments; added bilingual labels, default visibility/opacity and structure IDs.
+The full-body model contains 640 selectable structures: 277 skeletal, 230 arterial,
+116 venous, 16 organ and one complete skin structure. Lung parenchyma uses 18
+real 4.3 components FJ6595-FJ6612, while Skin is the native 4.0 FJ2810 mesh.
+The anatomy.glb derivative and this project's model modifications are distributed
+under the same historical CC BY-SA 2.1 Japan license. Preserve this attribution, source and
+license links, and adaptation notice when redistributing or adapting the assets.
+
+Name/index source: English anatomical terms and FMA mappings originate from
+BodyParts3D. The initial bilingual index, extracted names and classification were
+obtained from jixiangying / Human Anatomy Explorer:
+https://github.com/jixiangying/anatomy/blob/main/data/anatomy_data_simple_refined.json
+Its README describes AI-assisted Chinese translation and classification and
+cites the historical BodyParts3D license. No separate explicit license for the
+mirror's newly generated Chinese translations/index was located. This notice
+preserves their author/source attribution and does not assert that a separate
+translation-license grant has been confirmed. See ASSETS.md for scope/details.
+
+The displayed anatomy is a simplified, partial dataset. Bilingual labels and
+system classification are for interaction demonstration and have not been
+reviewed by a medical professional. No medical accuracy is warranted.
+
+See ASSETS.md at the project root for complete provenance and reproducibility.

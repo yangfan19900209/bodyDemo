@@ -1,0 +1,9 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+.DS_Store
+*.log
+scripts/source/bodyparts43-git-metadata/
+scripts/source/*.obj
+scripts/source/*.obj.tmp
