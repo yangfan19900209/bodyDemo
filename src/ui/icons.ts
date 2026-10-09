@@ -23,6 +23,10 @@ const paths: Record<string, string> = {
   focus: '<circle cx="12" cy="12" r="6"/><path d="M12 2v5M12 17v5M2 12h5M17 12h5"/>',
   organs: '<path d="M12 7C9 1 2 4 3 10c1 4 5 7 9 11 4-4 8-7 9-11 1-6-6-9-9-3Z"/><path d="m6 11 3 0 2-3 2 7 2-4h3"/>',
   skin: '<circle cx="12" cy="4" r="2.2"/><path d="M8 8h8l3 6-2 1-2-4v10h-2v-6h-2v6H9V11l-2 4-2-1 3-6Z"/>',
+  bone: '<path d="M7 5a3 3 0 0 0-5 2 3 3 0 0 0 2 5l8 8a3 3 0 0 0 5 2 3 3 0 0 0 5-5l-8-8a3 3 0 0 0-2-5 3 3 0 0 0-5 1Z"/>',
+  muscle: '<path d="m6 4 2 2c1 1 3 0 4 1l5 5c1 1 0 3 1 4l2 2M4 6l2 2c1 1 0 3 1 4l5 5c1 1 3 0 4 1l2 2M9 8l7 7M8 10l6 6M3 3l3 1-2 2-1-3ZM21 21l-3-1 2-2 1 3Z"/>',
+  nerve: '<path d="M12 2v20M12 6 6 3M12 10l7-5M12 13l-8 3M12 18l6 3M6 3l-2 3M6 3 8 2M19 5l2 3M19 5l1-3M4 16l-1-3M4 16l2 4M18 21l3-1"/>',
+  connective: '<path d="m4 5 15 14M5 4l14 15M3 6l15 15M6 3l15 15M10 5 5 10M15 10l-5 5M20 15l-5 5"/>',
 };
 
 export function icon(name: string, className = ''): string {

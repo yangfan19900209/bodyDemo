@@ -1,13 +1,15 @@
 {
   "name": "anatomy-atlas-demo",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "private": true,
   "type": "module",
   "scripts": {
     "dev": "vite --host 0.0.0.0",
     "build": "tsc --noEmit && vite build",
     "preview": "vite preview --host 0.0.0.0",
-    "generate:model": "node scripts/generate-model.mjs",
+    "generate:model": "node scripts/generate-v2.mjs",
+    "generate:core-frame": "node scripts/generate-model.mjs --frame-only",
+    "validate:model": "node scripts/validate-v2.mjs",
     "test": "playwright test"
   },
   "dependencies": {

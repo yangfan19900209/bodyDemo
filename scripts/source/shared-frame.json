@@ -1,0 +1,23 @@
+{
+  "rotationX": -1.5707963267948966,
+  "sourceScale": 0.0147,
+  "center": [
+    -0.009341955184936523,
+    11.489496409893036,
+    1.482323706150055
+  ],
+  "bounds": {
+    "min": [
+      -4.908565044403076,
+      -1.1478229761123657,
+      -0.6599756479263306
+    ],
+    "max": [
+      4.889881134033203,
+      24.126815795898438,
+      3.6246230602264404
+    ]
+  },
+  "coreSha256": "1732bb2d918ef48c49498cc2fb5d9ab388a3bf7200e1dc83bc2fdbf0e98f4463",
+  "convention": "Source Z-up millimeters -> rotateX(-PI/2), scale(0.0147), subtract this shared center. No per-asset centering."
+}

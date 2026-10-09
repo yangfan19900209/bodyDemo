@@ -18,11 +18,17 @@ export default defineConfig({
   projects: [
     { name: 'desktop-chrome', grep: /desktop:/, use: { ...devices['Desktop Chrome'], viewport: { width: 1440, height: 1000 } } },
     { name: 'mobile-chrome', grep: /phone portrait:/, use: { ...devices['Pixel 7'], viewport: { width: 390, height: 844 } } },
+    { name: 'pages-chrome', grep: /pages:/, use: { ...devices['Desktop Chrome'], baseURL: 'http://127.0.0.1:4174/bodyDemo/', viewport: { width: 1440, height: 1000 } } },
   ],
-  webServer: {
+  webServer: [{
     command: 'npm run dev -- --port 5173 --strictPort',
     url: 'http://127.0.0.1:5173',
     reuseExistingServer: true,
     timeout: 30_000,
-  },
+  }, {
+    command: 'node tests/serve-subpath.mjs',
+    url: 'http://127.0.0.1:4174/bodyDemo/',
+    reuseExistingServer: true,
+    timeout: 30_000,
+  }],
 });

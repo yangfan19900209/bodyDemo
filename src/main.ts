@@ -21,6 +21,10 @@ const actions: ViewerActions = {
   setAutoRotate: (enabled) => viewer?.setAutoRotate(enabled),
   setQuality: (high) => viewer?.setQuality(high),
   setPreset: (preset) => viewer?.setPreset(preset),
+  retrySystem: (system) => viewer?.retrySystem(system),
+  setActiveSystem: (system) => viewer?.setActiveSystem(system),
+  chooseHit: (id) => viewer?.chooseHit(id),
+  restoreSelected: () => viewer?.restoreSelected(),
 };
 const ui = new AnatomyUI(document.querySelector<HTMLElement>('#app')!, actions);
 
@@ -35,6 +39,7 @@ function initialize(): void {
       progress: (progress, message) => ui.setLoading(progress, message),
       error: (message) => ui.setError(message, initialize),
       toast: (message) => ui.toast(message),
+      performance: (stats) => ui.updatePerformance(stats),
     });
     void viewer.load();
   } catch (error) {
@@ -48,6 +53,7 @@ if (import.meta.env.DEV) {
     snapshot: () => viewer?.debugSnapshot(),
     manifest: () => viewer?.debugManifest(),
     projectStructure: (id: string) => viewer?.projectStructure(id) ?? null,
+    hitCandidates: (x: number, y: number) => viewer?.readHitCandidates(x, y) ?? [],
   }), configurable: true });
 }
 window.addEventListener('pagehide', (event) => { if (!event.persisted) { viewer?.dispose(); ui.dispose(); } });

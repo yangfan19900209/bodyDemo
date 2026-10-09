@@ -5,6 +5,7 @@
  */
 import fs from 'node:fs/promises';
 import path from 'node:path';
+import { createHash } from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 import * as THREE from 'three';
 import { OBJLoader } from 'three/addons/loaders/OBJLoader.js';
@@ -143,6 +144,20 @@ for (const record of groups.values()) {
 }
 const bounds = new THREE.Box3().setFromObject(scene);
 const center = bounds.getCenter(new THREE.Vector3());
+if (process.argv.includes('--frame-only')) {
+  const bytes = await fs.readFile(path.join(output, 'anatomy.glb'));
+  const frame = { rotationX: -Math.PI / 2, sourceScale: 0.0147, center: center.toArray(),
+    bounds: { min: bounds.min.toArray(), max: bounds.max.toArray() },
+    coreSha256: createHash('sha256').update(bytes).digest('hex'),
+    convention: 'Source Z-up millimeters -> rotateX(-PI/2), scale(0.0147), subtract this shared center. No per-asset centering.' };
+  await fs.writeFile(path.join(source, 'shared-frame.json'), JSON.stringify(frame, null, 2) + '\n');
+  try { await fs.access(path.join(source, 'core-manifest-v1.json')); }
+  catch { await fs.copyFile(path.join(output, 'anatomy.json'), path.join(source, 'core-manifest-v1.json')); }
+  console.log(JSON.stringify(frame, null, 2));
+  scene.traverse(obj => { if (obj.isMesh) obj.geometry.dispose(); });
+  Object.values(materials).forEach(material => material.dispose());
+  process.exit(0);
+}
 scene.children.forEach(mesh => { mesh.geometry.translate(-center.x, -center.y, -center.z); });
 let triangles = 0, vertices = 0;
 scene.traverse(obj => { if (obj.isMesh) { vertices += obj.geometry.attributes.position.count; triangles += (obj.geometry.index?.count ?? obj.geometry.attributes.position.count) / 3; } });

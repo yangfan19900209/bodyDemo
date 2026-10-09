@@ -7,3 +7,5 @@ playwright-report/
 scripts/source/bodyparts43-git-metadata/
 scripts/source/*.obj
 scripts/source/*.obj.tmp
+scripts/source/*.stl
+scripts/source/*.downloading

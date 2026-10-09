@@ -1,95 +1,9 @@
-import { expect, test, type Page } from '@playwright/test';
-import type { AnatomyStructure, LayerPreset, ModelManifest, SystemId, ViewerState } from '../src/data/anatomy';
-
-interface Bounds { min: number[]; max: number[] }
-
-interface Snapshot {
-  state: ViewerState;
-  camera: { position: number[]; target: number[] };
-  structures: Record<string, { visible: boolean; opacity: number; system: SystemId; bounds: Bounds }>;
-  model: { meshCount: number; triangleCount: number };
-}
-
-interface DebugApi {
-  snapshot(): Snapshot;
-  manifest(): ModelManifest;
-  projectStructure(id: string): { x: number; y: number } | null;
-}
-
-declare global { interface Window { __anatomyDebug?: DebugApi } }
-
-const snapshot = (page: Page) => page.evaluate(() => window.__anatomyDebug!.snapshot());
-const distance = (camera: Snapshot['camera']) => Math.hypot(...camera.position.map((v, i) => v - camera.target[i]!));
-const difference = (a: number[], b: number[]) => Math.hypot(...a.map((v, i) => v - b[i]!));
-const SYSTEM_NAMES: Record<SystemId, string> = { bones: '骨骼系统', arteries: '动脉系统', veins: '静脉系统', organs: '内脏层', skin: '皮肤层' };
-const PRESET_NAMES: Record<LayerPreset, string> = { all: '全层透视', vascular: '骨骼血管', organs: '内脏', skin: '外观' };
-
-function expectDefaults(state: Snapshot, manifest: ModelManifest): void {
-  for (const structure of manifest.structures) {
-    expect(state.structures[structure.id]!.visible, `${structure.nameEn} default visibility`).toBe(structure.defaultVisible ?? true);
-    expect(state.structures[structure.id]!.opacity, `${structure.nameEn} default opacity`).toBeCloseTo(structure.defaultOpacity ?? 1, 6);
-  }
-  expect(state.state.visibleCount).toBe(manifest.structures.filter((s) => s.defaultVisible ?? true).length);
-}
-
-async function ready(page: Page): Promise<Snapshot> {
-  await page.goto('/');
-  await expect.poll(() => page.evaluate(() => window.__anatomyDebug?.snapshot().state.ready ?? false)).toBe(true);
-  await expect(page.getByRole('progressbar', { name: '加载三维解剖模型' })).toBeHidden();
-  return snapshot(page);
-}
-
-async function saveScreenshot(page: Page, name: string): Promise<void> {
-  await page.screenshot({ path: `outputs/${name}.png` });
-}
-
-async function pickVisibleStructure(page: Page, system?: SystemId): Promise<{ structure: AnatomyStructure; point: { x: number; y: number } }> {
-  const candidate = await page.evaluate((system) => {
-    const debug = window.__anatomyDebug!;
-    const candidates = debug.manifest().structures.filter((s) => !system || s.system === system).sort((a, b) => Number(b.nameZh.includes('胸骨')) - Number(a.nameZh.includes('胸骨')));
-    for (const structure of candidates) {
-      const point = debug.projectStructure(structure.id);
-      // Prefer central rendered anatomy, clear of the toolbar and side controls.
-      if (point && point.x > innerWidth * 0.24 && point.x < innerWidth * 0.8 && point.y > 190 && point.y < innerHeight - 190) return { structure, point };
-    }
-    return null;
-  }, system);
-  expect(candidate, 'A visible triangle must be hittable with the real Raycaster').not.toBeNull();
-  await page.mouse.click(candidate!.point.x, candidate!.point.y);
-  await expect.poll(async () => (await snapshot(page)).state.selection).toContain(candidate!.structure.id);
-  return candidate!;
-}
-
-async function searchSelect(page: Page, structure: AnatomyStructure): Promise<void> {
-  const input = page.getByRole('searchbox', { name: '搜索解剖结构' });
-  if (!await input.isVisible()) await page.getByRole('button', { name: '搜索', exact: true }).click();
-  await input.fill(structure.nameEn);
-  await page.getByRole('dialog', { name: '查找结构', exact: true }).locator(`button[data-structure="${structure.id}"]`).click();
-  await expect.poll(async () => (await snapshot(page)).state.selection).toContain(structure.id);
-  await page.waitForTimeout(650); // Allow the documented camera transition to finish.
-}
-
-async function clickProjectedStructure(page: Page, structure: AnatomyStructure): Promise<void> {
-  const point = await page.evaluate((id) => window.__anatomyDebug!.projectStructure(id), structure.id);
-  expect(point, `${structure.nameEn} must have an actually hittable triangle`).not.toBeNull();
-  const isCanvas = await page.evaluate(({ x, y }) => document.elementFromPoint(x, y)?.tagName === 'CANVAS', point!);
-  expect(isCanvas, `${structure.nameEn} must be clear of the floating UI`).toBe(true);
-  await page.mouse.click(point!.x, point!.y);
-  await expect.poll(async () => (await snapshot(page)).state.selection).toEqual([structure.id]);
-}
-
-async function openSystems(page: Page): Promise<void> {
-  if (!await page.getByRole('dialog', { name: '解剖系统', exact: true }).isVisible()) await page.getByRole('button', { name: '解剖系统', exact: true }).click();
-}
-
-async function setPreset(page: Page, preset: LayerPreset): Promise<void> {
-  await openSystems(page);
-  await page.getByRole('button', { name: PRESET_NAMES[preset], exact: true }).click();
-  await expect.poll(async () => (await snapshot(page)).state.preset).toBe(preset);
-}
+import { expect, test } from '@playwright/test';
+import type { AnatomyStructure } from '../src/data/anatomy';
+import type { Bounds, LegacySystemId } from './support/anatomy';
+import { snapshot, distance, difference, ready, saveScreenshot, pickVisibleStructure, searchSelect, clickProjectedStructure, openSystems, setPreset, expectDefaults, SYSTEM_NAMES } from './support/anatomy';
 
 test('desktop: local GLB, real picking, camera gestures and all structure operations', async ({ page }, testInfo) => {
-  test.skip(testInfo.project.name !== 'desktop-chrome');
   const errors: string[] = [];
   const externalRequests: string[] = [];
   let loadedGlb = false;
@@ -241,14 +155,16 @@ test('desktop: full-body head, leg and foot bounds contain real selectable meshe
   expect(head, 'The full body must include a named cranial mesh').toBeDefined();
   expect(leg, 'The full body must include a named leg bone').toBeDefined();
   expect(foot, 'The full body must include a named foot bone').toBeDefined();
-  const allBounds = Object.values(initial.structures).map((s) => s.bounds);
+  const loadedStructures = Object.values(initial.structures).filter((s) => s.loaded);
+  expect(loadedStructures.every((s) => s.bounds !== null)).toBe(true);
+  const allBounds = loadedStructures.map((s) => s.bounds).filter((b): b is Bounds => b !== null);
   expect(allBounds.every((b) => b && b.min.length === 3 && b.max.length === 3)).toBe(true);
   const bottom = Math.min(...allBounds.map((b) => b.min[1]!));
   const top = Math.max(...allBounds.map((b) => b.max[1]!));
   const height = top - bottom;
   expect(height).toBeGreaterThan(10);
   const relativeHeight = (structure: AnatomyStructure) => {
-    const bounds = initial.structures[structure.id]!.bounds;
+    const bounds = initial.structures[structure.id]!.bounds!;
     return ((bounds.min[1]! + bounds.max[1]!) / 2 - bottom) / height;
   };
   expect(relativeHeight(head!)).toBeGreaterThan(0.7);
@@ -273,9 +189,9 @@ test('desktop: full-body head, leg and foot bounds contain real selectable meshe
 test('desktop: five tissue layers, four undoable presets and translucent skin picking', async ({ page }) => {
   const initial = await ready(page);
   const manifest = await page.evaluate(() => window.__anatomyDebug!.manifest());
-  const systems = Object.keys(SYSTEM_NAMES) as SystemId[];
+  const systems = Object.keys(SYSTEM_NAMES) as LegacySystemId[];
   expectDefaults(initial, manifest);
-  expect(Object.keys(initial.state.systems).sort()).toEqual([...systems].sort());
+  expect(Object.keys(initial.state.systems).sort()).toEqual([...systems, 'muscles', 'nerves', 'connective'].sort());
   for (const system of systems) expect(manifest.structures.some((s) => s.system === system), `${system} must contain real structures`).toBe(true);
   const skin = manifest.structures.find((s) => s.system === 'skin')!;
   const organ = manifest.structures.find((s) => s.system === 'organs' && /liver|heart|lung/i.test(s.nameEn)) ?? manifest.structures.find((s) => s.system === 'organs')!;
@@ -353,7 +269,6 @@ test('desktop: five tissue layers, four undoable presets and translucent skin pi
 });
 
 test('phone portrait: layout, real picking, one-finger orbit and two-finger pinch', async ({ page, context }, testInfo) => {
-  test.skip(testInfo.project.name !== 'mobile-chrome');
   const initial = await ready(page);
   expect(initial.state.totalCount).toBeGreaterThan(50);
   await saveScreenshot(page, 'mobile');
@@ -411,7 +326,6 @@ test('phone portrait: layout, real picking, one-finger orbit and two-finger pinc
 });
 
 test('desktop: failed local GLB shows an error and retry restores the scene', async ({ page }, testInfo) => {
-  test.skip(testInfo.project.name !== 'desktop-chrome');
   await page.route('**/models/anatomy.glb', (route) => route.abort('failed'));
   await page.goto('/');
   await expect(page.getByRole('alert')).toBeVisible();

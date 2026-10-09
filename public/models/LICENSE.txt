@@ -1,4 +1,4 @@
-BodyParts3D full-body study — model asset attribution and license
+BodyParts3D V2 multilayer full-body study — model asset attribution and license
 
 Original data: BodyParts3D / The Database Center for Life Science (DBCLS)
 BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution-Share Alike 2.1 Japan
@@ -13,6 +13,11 @@ Official archive: https://dbarchive.biosciencedbc.jp/en/bodyparts3d/
 OBJ mirror used: https://github.com/jixiangying/anatomy/tree/main/isa_BP3D_4.0_obj_99
 Additional 4.3 lung-parenchyma mirror: https://github.com/olivercase/body_parts_3d_api
 Mirror/index credits: jixiangying / Human Anatomy Explorer; olivercase.
+Additional 3.0 muscle STL mirror and geometry/index conversion: Kevin Mattheus Moerman
+https://github.com/Kevin-Mattheus-Moerman/BodyParts3D
+Its README and LICENSE_content declare original DBCLS BodyParts3D 3.0 geometry
+and derivatives under historical CC BY-SA 2.1 Japan. No software code from that
+MIT-licensed mirror was imported; only named anatomical geometry was used.
 The 4.0 OBJ files retain historical CC BY-SA 2.1 Japan headers. The added 4.3
 lung OBJ files retain their version/FMA/name headers, and their mirror README
 declares the same historical BodyParts3D license.
@@ -32,6 +37,18 @@ segments; added bilingual labels, default visibility/opacity and structure IDs.
 The full-body model contains 640 selectable structures: 277 skeletal, 230 arterial,
 116 venous, 16 organ and one complete skin structure. Lung parenchyma uses 18
 real 4.3 components FJ6595-FJ6612, while Skin is the native 4.0 FJ2810 mesh.
+V2 preserves this core GLB byte-for-byte and all 640 IDs/defaults. Four verified
+core ligaments are reclassified only in metadata. Added lazy assets are:
+muscles.glb: 413 real structures; nerves.glb: 65; connective.glb: 26 new structures.
+The connective layer additionally contains four original-core ligaments. Tissue
+metadata distinguishes muscle, tendon, ligament and fascia; spinal-cord neural
+tissue is central and is not labeled as a peripheral nerve. Every added GLB uses
+the same original coordinate rotation, scale and center as the unchanged core.
+Ten 3.0 named muscles supplement absent 4.0/4.3 anatomy after bounded native
+coordinate checks; version surface differences remain, with no independent fitting.
+These GLB derivatives retain the historical CC BY-SA 2.1 Japan attribution and
+ShareAlike license. Source URLs, versions, geometry hashes and limits are recorded
+per structure in asset-audit.json and ASSETS.md.
 The anatomy.glb derivative and this project's model modifications are distributed
 under the same historical CC BY-SA 2.1 Japan license. Preserve this attribution, source and
 license links, and adaptation notice when redistributing or adapting the assets.

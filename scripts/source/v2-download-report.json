@@ -1,0 +1,3038 @@
+[
+  {
+    "id": "FJ1284",
+    "asset": "connective",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1284.obj"
+  },
+  {
+    "id": "FJ1292",
+    "asset": "connective",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1292.obj"
+  },
+  {
+    "id": "FJ1294",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1294.obj"
+  },
+  {
+    "id": "FJ1295",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1295.obj"
+  },
+  {
+    "id": "FJ1304",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1304.obj"
+  },
+  {
+    "id": "FJ1306",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1306.obj"
+  },
+  {
+    "id": "FJ1308",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1308.obj"
+  },
+  {
+    "id": "FJ1322",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1322.obj"
+  },
+  {
+    "id": "FJ1323",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1323.obj"
+  },
+  {
+    "id": "FJ1334",
+    "asset": "connective",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1334.obj"
+  },
+  {
+    "id": "FJ1335",
+    "asset": "connective",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1335.obj"
+  },
+  {
+    "id": "FJ1343",
+    "asset": "connective",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1343.obj"
+  },
+  {
+    "id": "FJ1345",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1345.obj"
+  },
+  {
+    "id": "FJ1346",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1346.obj"
+  },
+  {
+    "id": "FJ1355",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1355.obj"
+  },
+  {
+    "id": "FJ1357",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1357.obj"
+  },
+  {
+    "id": "FJ1359",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1359.obj"
+  },
+  {
+    "id": "FJ1373",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1373.obj"
+  },
+  {
+    "id": "FJ1374",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1374.obj"
+  },
+  {
+    "id": "FJ1383",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1383.obj"
+  },
+  {
+    "id": "FJ1383M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1383M.obj"
+  },
+  {
+    "id": "FJ1384",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1384.obj"
+  },
+  {
+    "id": "FJ1384M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1384M.obj"
+  },
+  {
+    "id": "FJ1385",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1385.obj"
+  },
+  {
+    "id": "FJ1385M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1385M.obj"
+  },
+  {
+    "id": "FJ1386",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1386.obj"
+  },
+  {
+    "id": "FJ1386M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1386M.obj"
+  },
+  {
+    "id": "FJ1387",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1387.obj"
+  },
+  {
+    "id": "FJ1387M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1387M.obj"
+  },
+  {
+    "id": "FJ1388",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1388.obj"
+  },
+  {
+    "id": "FJ1388M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1388M.obj"
+  },
+  {
+    "id": "FJ1389",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1389.obj"
+  },
+  {
+    "id": "FJ1389M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1389M.obj"
+  },
+  {
+    "id": "FJ1390",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1390.obj"
+  },
+  {
+    "id": "FJ1390M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1390M.obj"
+  },
+  {
+    "id": "FJ1391",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1391.obj"
+  },
+  {
+    "id": "FJ1391M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1391M.obj"
+  },
+  {
+    "id": "FJ1393",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1393.obj"
+  },
+  {
+    "id": "FJ1393M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1393M.obj"
+  },
+  {
+    "id": "FJ1394",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1394.obj"
+  },
+  {
+    "id": "FJ1394M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1394M.obj"
+  },
+  {
+    "id": "FJ1395",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1395.obj"
+  },
+  {
+    "id": "FJ1395M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1395M.obj"
+  },
+  {
+    "id": "FJ1396",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1396.obj"
+  },
+  {
+    "id": "FJ1396M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1396M.obj"
+  },
+  {
+    "id": "FJ1397",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1397.obj"
+  },
+  {
+    "id": "FJ1397M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1397M.obj"
+  },
+  {
+    "id": "FJ1398",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1398.obj"
+  },
+  {
+    "id": "FJ1398M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1398M.obj"
+  },
+  {
+    "id": "FJ1399",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1399.obj"
+  },
+  {
+    "id": "FJ1399M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1399M.obj"
+  },
+  {
+    "id": "FJ1400",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1400.obj"
+  },
+  {
+    "id": "FJ1400M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1400M.obj"
+  },
+  {
+    "id": "FJ1401",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1401.obj"
+  },
+  {
+    "id": "FJ1401M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1401M.obj"
+  },
+  {
+    "id": "FJ1402",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1402.obj"
+  },
+  {
+    "id": "FJ1402M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1402M.obj"
+  },
+  {
+    "id": "FJ1403",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1403.obj"
+  },
+  {
+    "id": "FJ1403M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1403M.obj"
+  },
+  {
+    "id": "FJ1404",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1404.obj"
+  },
+  {
+    "id": "FJ1404M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1404M.obj"
+  },
+  {
+    "id": "FJ1405",
+    "asset": "connective",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1405.obj"
+  },
+  {
+    "id": "FJ1405M",
+    "asset": "connective",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1405M.obj"
+  },
+  {
+    "id": "FJ1406",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1406.obj"
+  },
+  {
+    "id": "FJ1406M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1406M.obj"
+  },
+  {
+    "id": "FJ1407",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1407.obj"
+  },
+  {
+    "id": "FJ1407M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1407M.obj"
+  },
+  {
+    "id": "FJ1408",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1408.obj"
+  },
+  {
+    "id": "FJ1408M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1408M.obj"
+  },
+  {
+    "id": "FJ1409",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1409.obj"
+  },
+  {
+    "id": "FJ1409M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1409M.obj"
+  },
+  {
+    "id": "FJ1410",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1410.obj"
+  },
+  {
+    "id": "FJ1410M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1410M.obj"
+  },
+  {
+    "id": "FJ1411",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1411.obj"
+  },
+  {
+    "id": "FJ1411M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1411M.obj"
+  },
+  {
+    "id": "FJ1412",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1412.obj"
+  },
+  {
+    "id": "FJ1412M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1412M.obj"
+  },
+  {
+    "id": "FJ1413",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1413.obj"
+  },
+  {
+    "id": "FJ1413M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1413M.obj"
+  },
+  {
+    "id": "FJ1414",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1414.obj"
+  },
+  {
+    "id": "FJ1414M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1414M.obj"
+  },
+  {
+    "id": "FJ1415",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1415.obj"
+  },
+  {
+    "id": "FJ1415M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1415M.obj"
+  },
+  {
+    "id": "FJ1416",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1416.obj"
+  },
+  {
+    "id": "FJ1416M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1416M.obj"
+  },
+  {
+    "id": "FJ1417",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1417.obj"
+  },
+  {
+    "id": "FJ1417M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1417M.obj"
+  },
+  {
+    "id": "FJ1418",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1418.obj"
+  },
+  {
+    "id": "FJ1418M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1418M.obj"
+  },
+  {
+    "id": "FJ1419",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1419.obj"
+  },
+  {
+    "id": "FJ1419M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1419M.obj"
+  },
+  {
+    "id": "FJ1420",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1420.obj"
+  },
+  {
+    "id": "FJ1420M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1420M.obj"
+  },
+  {
+    "id": "FJ1421",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1421.obj"
+  },
+  {
+    "id": "FJ1421M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1421M.obj"
+  },
+  {
+    "id": "FJ1422",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1422.obj"
+  },
+  {
+    "id": "FJ1422M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1422M.obj"
+  },
+  {
+    "id": "FJ1423",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1423.obj"
+  },
+  {
+    "id": "FJ1423M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1423M.obj"
+  },
+  {
+    "id": "FJ1425",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1425.obj"
+  },
+  {
+    "id": "FJ1425M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1425M.obj"
+  },
+  {
+    "id": "FJ1426",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1426.obj"
+  },
+  {
+    "id": "FJ1426M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1426M.obj"
+  },
+  {
+    "id": "FJ1427",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1427.obj"
+  },
+  {
+    "id": "FJ1427M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1427M.obj"
+  },
+  {
+    "id": "FJ1428",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1428.obj"
+  },
+  {
+    "id": "FJ1428M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1428M.obj"
+  },
+  {
+    "id": "FJ1429",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1429.obj"
+  },
+  {
+    "id": "FJ1429M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1429M.obj"
+  },
+  {
+    "id": "FJ1430",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1430.obj"
+  },
+  {
+    "id": "FJ1430M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1430M.obj"
+  },
+  {
+    "id": "FJ1431",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1431.obj"
+  },
+  {
+    "id": "FJ1431M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1431M.obj"
+  },
+  {
+    "id": "FJ1432",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1432.obj"
+  },
+  {
+    "id": "FJ1432M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1432M.obj"
+  },
+  {
+    "id": "FJ1433",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1433.obj"
+  },
+  {
+    "id": "FJ1433M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1433M.obj"
+  },
+  {
+    "id": "FJ1434",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1434.obj"
+  },
+  {
+    "id": "FJ1434M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1434M.obj"
+  },
+  {
+    "id": "FJ1435",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1435.obj"
+  },
+  {
+    "id": "FJ1435M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1435M.obj"
+  },
+  {
+    "id": "FJ1436",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1436.obj"
+  },
+  {
+    "id": "FJ1436M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1436M.obj"
+  },
+  {
+    "id": "FJ1437",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1437.obj"
+  },
+  {
+    "id": "FJ1437M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1437M.obj"
+  },
+  {
+    "id": "FJ1438",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1438.obj"
+  },
+  {
+    "id": "FJ1438M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1438M.obj"
+  },
+  {
+    "id": "FJ1439",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1439.obj"
+  },
+  {
+    "id": "FJ1439M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1439M.obj"
+  },
+  {
+    "id": "FJ1440",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1440.obj"
+  },
+  {
+    "id": "FJ1440M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1440M.obj"
+  },
+  {
+    "id": "FJ1441",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1441.obj"
+  },
+  {
+    "id": "FJ1441M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1441M.obj"
+  },
+  {
+    "id": "FJ1442",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1442.obj"
+  },
+  {
+    "id": "FJ1442M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1442M.obj"
+  },
+  {
+    "id": "FJ1443",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1443.obj"
+  },
+  {
+    "id": "FJ1443M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1443M.obj"
+  },
+  {
+    "id": "FJ1444",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1444.obj"
+  },
+  {
+    "id": "FJ1444M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1444M.obj"
+  },
+  {
+    "id": "FJ1445",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1445.obj"
+  },
+  {
+    "id": "FJ1445M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1445M.obj"
+  },
+  {
+    "id": "FJ1446",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1446.obj"
+  },
+  {
+    "id": "FJ1446M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1446M.obj"
+  },
+  {
+    "id": "FJ1447",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1447.obj"
+  },
+  {
+    "id": "FJ1447M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1447M.obj"
+  },
+  {
+    "id": "FJ1449M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1449M.obj"
+  },
+  {
+    "id": "FJ1450",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1450.obj"
+  },
+  {
+    "id": "FJ1450M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1450M.obj"
+  },
+  {
+    "id": "FJ1451",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1451.obj"
+  },
+  {
+    "id": "FJ1451M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1451M.obj"
+  },
+  {
+    "id": "FJ1452",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1452.obj"
+  },
+  {
+    "id": "FJ1452M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1452M.obj"
+  },
+  {
+    "id": "FJ1453M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1453M.obj"
+  },
+  {
+    "id": "FJ1454",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1454.obj"
+  },
+  {
+    "id": "FJ1454M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1454M.obj"
+  },
+  {
+    "id": "FJ1455",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1455.obj"
+  },
+  {
+    "id": "FJ1455M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1455M.obj"
+  },
+  {
+    "id": "FJ1456",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1456.obj"
+  },
+  {
+    "id": "FJ1456M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1456M.obj"
+  },
+  {
+    "id": "FJ1457M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1457M.obj"
+  },
+  {
+    "id": "FJ1458M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1458M.obj"
+  },
+  {
+    "id": "FJ1459",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1459.obj"
+  },
+  {
+    "id": "FJ1459M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1459M.obj"
+  },
+  {
+    "id": "FJ1460",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1460.obj"
+  },
+  {
+    "id": "FJ1460M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1460M.obj"
+  },
+  {
+    "id": "FJ1461",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1461.obj"
+  },
+  {
+    "id": "FJ1461M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1461M.obj"
+  },
+  {
+    "id": "FJ1462",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1462.obj"
+  },
+  {
+    "id": "FJ1462M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1462M.obj"
+  },
+  {
+    "id": "FJ1463",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1463.obj"
+  },
+  {
+    "id": "FJ1463M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1463M.obj"
+  },
+  {
+    "id": "FJ1464",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1464.obj"
+  },
+  {
+    "id": "FJ1464M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1464M.obj"
+  },
+  {
+    "id": "FJ1465",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1465.obj"
+  },
+  {
+    "id": "FJ1465M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1465M.obj"
+  },
+  {
+    "id": "FJ1466",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1466.obj"
+  },
+  {
+    "id": "FJ1466M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1466M.obj"
+  },
+  {
+    "id": "FJ1467",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1467.obj"
+  },
+  {
+    "id": "FJ1467M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1467M.obj"
+  },
+  {
+    "id": "FJ1468",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1468.obj"
+  },
+  {
+    "id": "FJ1468M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1468M.obj"
+  },
+  {
+    "id": "FJ1469",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1469.obj"
+  },
+  {
+    "id": "FJ1469M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1469M.obj"
+  },
+  {
+    "id": "FJ1470",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1470.obj"
+  },
+  {
+    "id": "FJ1470M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1470M.obj"
+  },
+  {
+    "id": "FJ1472",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1472.obj"
+  },
+  {
+    "id": "FJ1472M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1472M.obj"
+  },
+  {
+    "id": "FJ1473",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1473.obj"
+  },
+  {
+    "id": "FJ1473M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1473M.obj"
+  },
+  {
+    "id": "FJ1474",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1474.obj"
+  },
+  {
+    "id": "FJ1474M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1474M.obj"
+  },
+  {
+    "id": "FJ1475",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1475.obj"
+  },
+  {
+    "id": "FJ1475M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1475M.obj"
+  },
+  {
+    "id": "FJ1477",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1477.obj"
+  },
+  {
+    "id": "FJ1477M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1477M.obj"
+  },
+  {
+    "id": "FJ1478",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1478.obj"
+  },
+  {
+    "id": "FJ1478M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1478M.obj"
+  },
+  {
+    "id": "FJ1479",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1479.obj"
+  },
+  {
+    "id": "FJ1479M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1479M.obj"
+  },
+  {
+    "id": "FJ1480",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1480.obj"
+  },
+  {
+    "id": "FJ1480M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1480M.obj"
+  },
+  {
+    "id": "FJ1481",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1481.obj"
+  },
+  {
+    "id": "FJ1481M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1481M.obj"
+  },
+  {
+    "id": "FJ1482",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1482.obj"
+  },
+  {
+    "id": "FJ1482M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1482M.obj"
+  },
+  {
+    "id": "FJ1483",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1483.obj"
+  },
+  {
+    "id": "FJ1483M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1483M.obj"
+  },
+  {
+    "id": "FJ1484",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1484.obj"
+  },
+  {
+    "id": "FJ1484M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1484M.obj"
+  },
+  {
+    "id": "FJ1485",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1485.obj"
+  },
+  {
+    "id": "FJ1485M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1485M.obj"
+  },
+  {
+    "id": "FJ1486",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1486.obj"
+  },
+  {
+    "id": "FJ1486M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1486M.obj"
+  },
+  {
+    "id": "FJ1487",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1487.obj"
+  },
+  {
+    "id": "FJ1487M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1487M.obj"
+  },
+  {
+    "id": "FJ1488",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1488.obj"
+  },
+  {
+    "id": "FJ1488M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1488M.obj"
+  },
+  {
+    "id": "FJ1489",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1489.obj"
+  },
+  {
+    "id": "FJ1489M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1489M.obj"
+  },
+  {
+    "id": "FJ1490",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1490.obj"
+  },
+  {
+    "id": "FJ1490M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1490M.obj"
+  },
+  {
+    "id": "FJ1491",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1491.obj"
+  },
+  {
+    "id": "FJ1491M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1491M.obj"
+  },
+  {
+    "id": "FJ1492",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1492.obj"
+  },
+  {
+    "id": "FJ1492M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1492M.obj"
+  },
+  {
+    "id": "FJ1493",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1493.obj"
+  },
+  {
+    "id": "FJ1493M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1493M.obj"
+  },
+  {
+    "id": "FJ1494",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1494.obj"
+  },
+  {
+    "id": "FJ1494M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1494M.obj"
+  },
+  {
+    "id": "FJ1495",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1495.obj"
+  },
+  {
+    "id": "FJ1495M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1495M.obj"
+  },
+  {
+    "id": "FJ1496",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1496.obj"
+  },
+  {
+    "id": "FJ1496M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1496M.obj"
+  },
+  {
+    "id": "FJ1497",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1497.obj"
+  },
+  {
+    "id": "FJ1497M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1497M.obj"
+  },
+  {
+    "id": "FJ1498",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1498.obj"
+  },
+  {
+    "id": "FJ1498M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1498M.obj"
+  },
+  {
+    "id": "FJ1499",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1499.obj"
+  },
+  {
+    "id": "FJ1499M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1499M.obj"
+  },
+  {
+    "id": "FJ1500",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1500.obj"
+  },
+  {
+    "id": "FJ1500M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1500M.obj"
+  },
+  {
+    "id": "FJ1501",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1501.obj"
+  },
+  {
+    "id": "FJ1501M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1501M.obj"
+  },
+  {
+    "id": "FJ1502",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1502.obj"
+  },
+  {
+    "id": "FJ1502M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1502M.obj"
+  },
+  {
+    "id": "FJ1503",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1503.obj"
+  },
+  {
+    "id": "FJ1503M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1503M.obj"
+  },
+  {
+    "id": "FJ1504",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1504.obj"
+  },
+  {
+    "id": "FJ1504M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1504M.obj"
+  },
+  {
+    "id": "FJ1505",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1505.obj"
+  },
+  {
+    "id": "FJ1505M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1505M.obj"
+  },
+  {
+    "id": "FJ1506",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1506.obj"
+  },
+  {
+    "id": "FJ1506M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1506M.obj"
+  },
+  {
+    "id": "FJ1507",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1507.obj"
+  },
+  {
+    "id": "FJ1507M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1507M.obj"
+  },
+  {
+    "id": "FJ1508",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1508.obj"
+  },
+  {
+    "id": "FJ1508M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1508M.obj"
+  },
+  {
+    "id": "FJ1512",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1512.obj"
+  },
+  {
+    "id": "FJ1512M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1512M.obj"
+  },
+  {
+    "id": "FJ1513",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1513.obj"
+  },
+  {
+    "id": "FJ1513M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1513M.obj"
+  },
+  {
+    "id": "FJ1514",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1514.obj"
+  },
+  {
+    "id": "FJ1514M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1514M.obj"
+  },
+  {
+    "id": "FJ1515",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1515.obj"
+  },
+  {
+    "id": "FJ1515M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1515M.obj"
+  },
+  {
+    "id": "FJ1516",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1516.obj"
+  },
+  {
+    "id": "FJ1516M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1516M.obj"
+  },
+  {
+    "id": "FJ1517",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1517.obj"
+  },
+  {
+    "id": "FJ1517M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1517M.obj"
+  },
+  {
+    "id": "FJ1518",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1518.obj"
+  },
+  {
+    "id": "FJ1518M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1518M.obj"
+  },
+  {
+    "id": "FJ1520",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1520.obj"
+  },
+  {
+    "id": "FJ1520M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1520M.obj"
+  },
+  {
+    "id": "FJ1521",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1521.obj"
+  },
+  {
+    "id": "FJ1521M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1521M.obj"
+  },
+  {
+    "id": "FJ1522",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1522.obj"
+  },
+  {
+    "id": "FJ1522M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1522M.obj"
+  },
+  {
+    "id": "FJ1524",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1524.obj"
+  },
+  {
+    "id": "FJ1524M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1524M.obj"
+  },
+  {
+    "id": "FJ1525",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1525.obj"
+  },
+  {
+    "id": "FJ1525M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1525M.obj"
+  },
+  {
+    "id": "FJ1526",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1526.obj"
+  },
+  {
+    "id": "FJ1526M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1526M.obj"
+  },
+  {
+    "id": "FJ1527",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1527.obj"
+  },
+  {
+    "id": "FJ1527M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1527M.obj"
+  },
+  {
+    "id": "FJ1528",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1528.obj"
+  },
+  {
+    "id": "FJ1528M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1528M.obj"
+  },
+  {
+    "id": "FJ1532",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1532.obj"
+  },
+  {
+    "id": "FJ1532M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1532M.obj"
+  },
+  {
+    "id": "FJ1533",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1533.obj"
+  },
+  {
+    "id": "FJ1533M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1533M.obj"
+  },
+  {
+    "id": "FJ1534",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1534.obj"
+  },
+  {
+    "id": "FJ1534M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1534M.obj"
+  },
+  {
+    "id": "FJ1535",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1535.obj"
+  },
+  {
+    "id": "FJ1535M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1535M.obj"
+  },
+  {
+    "id": "FJ1536",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1536.obj"
+  },
+  {
+    "id": "FJ1536M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1536M.obj"
+  },
+  {
+    "id": "FJ1537",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1537.obj"
+  },
+  {
+    "id": "FJ1537M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1537M.obj"
+  },
+  {
+    "id": "FJ1538",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1538.obj"
+  },
+  {
+    "id": "FJ1538M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1538M.obj"
+  },
+  {
+    "id": "FJ1539",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1539.obj"
+  },
+  {
+    "id": "FJ1539M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1539M.obj"
+  },
+  {
+    "id": "FJ1540",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1540.obj"
+  },
+  {
+    "id": "FJ1540M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1540M.obj"
+  },
+  {
+    "id": "FJ1541",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1541.obj"
+  },
+  {
+    "id": "FJ1541M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1541M.obj"
+  },
+  {
+    "id": "FJ1542",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1542.obj"
+  },
+  {
+    "id": "FJ1542M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1542M.obj"
+  },
+  {
+    "id": "FJ1543",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1543.obj"
+  },
+  {
+    "id": "FJ1543M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1543M.obj"
+  },
+  {
+    "id": "FJ1544",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1544.obj"
+  },
+  {
+    "id": "FJ1544M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1544M.obj"
+  },
+  {
+    "id": "FJ1545",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1545.obj"
+  },
+  {
+    "id": "FJ1545M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1545M.obj"
+  },
+  {
+    "id": "FJ1546",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1546.obj"
+  },
+  {
+    "id": "FJ1546M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1546M.obj"
+  },
+  {
+    "id": "FJ1547",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1547.obj"
+  },
+  {
+    "id": "FJ1547M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1547M.obj"
+  },
+  {
+    "id": "FJ1548",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1548.obj"
+  },
+  {
+    "id": "FJ1548M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1548M.obj"
+  },
+  {
+    "id": "FJ1551",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1551.obj"
+  },
+  {
+    "id": "FJ1551M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1551M.obj"
+  },
+  {
+    "id": "FJ1554",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1554.obj"
+  },
+  {
+    "id": "FJ1554M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1554M.obj"
+  },
+  {
+    "id": "FJ1555",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1555.obj"
+  },
+  {
+    "id": "FJ1556",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1556.obj"
+  },
+  {
+    "id": "FJ1557",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1557.obj"
+  },
+  {
+    "id": "FJ1558",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1558.obj"
+  },
+  {
+    "id": "FJ1559",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1559.obj"
+  },
+  {
+    "id": "FJ1560",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1560.obj"
+  },
+  {
+    "id": "FJ1561",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1561.obj"
+  },
+  {
+    "id": "FJ1562",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1562.obj"
+  },
+  {
+    "id": "FJ1563",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1563.obj"
+  },
+  {
+    "id": "FJ1564",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1564.obj"
+  },
+  {
+    "id": "FJ1565",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1565.obj"
+  },
+  {
+    "id": "FJ1566",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1566.obj"
+  },
+  {
+    "id": "FJ1567",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1567.obj"
+  },
+  {
+    "id": "FJ1568",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1568.obj"
+  },
+  {
+    "id": "FJ1569",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1569.obj"
+  },
+  {
+    "id": "FJ1570",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1570.obj"
+  },
+  {
+    "id": "FJ1571",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1571.obj"
+  },
+  {
+    "id": "FJ1572",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1572.obj"
+  },
+  {
+    "id": "FJ1573",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1573.obj"
+  },
+  {
+    "id": "FJ1574",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1574.obj"
+  },
+  {
+    "id": "FJ1575",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1575.obj"
+  },
+  {
+    "id": "FJ1576",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1576.obj"
+  },
+  {
+    "id": "FJ1577",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1577.obj"
+  },
+  {
+    "id": "FJ1578",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1578.obj"
+  },
+  {
+    "id": "FJ1579",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1579.obj"
+  },
+  {
+    "id": "FJ1580",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1580.obj"
+  },
+  {
+    "id": "FJ1581",
+    "asset": "connective",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1581.obj"
+  },
+  {
+    "id": "FJ1582",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1582.obj"
+  },
+  {
+    "id": "FJ1583",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1583.obj"
+  },
+  {
+    "id": "FJ1584",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1584.obj"
+  },
+  {
+    "id": "FJ1585",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1585.obj"
+  },
+  {
+    "id": "FJ1586",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1586.obj"
+  },
+  {
+    "id": "FJ1587",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1587.obj"
+  },
+  {
+    "id": "FJ1588",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1588.obj"
+  },
+  {
+    "id": "FJ1589",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1589.obj"
+  },
+  {
+    "id": "FJ1590",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1590.obj"
+  },
+  {
+    "id": "FJ1591",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1591.obj"
+  },
+  {
+    "id": "FJ1592",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1592.obj"
+  },
+  {
+    "id": "FJ1593",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1593.obj"
+  },
+  {
+    "id": "FJ1594",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1594.obj"
+  },
+  {
+    "id": "FJ1595",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1595.obj"
+  },
+  {
+    "id": "FJ1596",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1596.obj"
+  },
+  {
+    "id": "FJ1597",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1597.obj"
+  },
+  {
+    "id": "FJ1598",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1598.obj"
+  },
+  {
+    "id": "FJ1599",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1599.obj"
+  },
+  {
+    "id": "FJ1600",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1600.obj"
+  },
+  {
+    "id": "FJ1601",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1601.obj"
+  },
+  {
+    "id": "FJ2542",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ2542.obj"
+  },
+  {
+    "id": "FJ2543",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ2543.obj"
+  },
+  {
+    "id": "FJ2544",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ2544.obj"
+  },
+  {
+    "id": "FJ2545",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ2545.obj"
+  },
+  {
+    "id": "FJ2546",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ2546.obj"
+  },
+  {
+    "id": "FJ2547",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ2547.obj"
+  },
+  {
+    "id": "FJ2548",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ2548.obj"
+  },
+  {
+    "id": "FJ2549",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ2549.obj"
+  },
+  {
+    "id": "FJ2550",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ2550.obj"
+  },
+  {
+    "id": "FJ2551",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ2551.obj"
+  },
+  {
+    "id": "FJ2552",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ2552.obj"
+  },
+  {
+    "id": "FJ2553",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ2553.obj"
+  },
+  {
+    "id": "FJ2774",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ2774.obj"
+  },
+  {
+    "id": "FJ2781",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ2781.obj"
+  },
+  {
+    "id": "FJ2783",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ2783.obj"
+  },
+  {
+    "id": "FJ2791",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ2791.obj"
+  },
+  {
+    "id": "FJ2799",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ2799.obj"
+  },
+  {
+    "id": "FJ2801",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ2801.obj"
+  },
+  {
+    "id": "FJ2809",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ2809.obj"
+  },
+  {
+    "id": "FJ3131",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ3131.obj"
+  },
+  {
+    "id": "FJ1291",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1291.obj"
+  },
+  {
+    "id": "FJ1342",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1342.obj"
+  },
+  {
+    "id": "FJ1448",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1448.obj"
+  },
+  {
+    "id": "FJ1509",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1509.obj"
+  },
+  {
+    "id": "FJ1509M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1509M.obj"
+  },
+  {
+    "id": "FJ1510",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1510.obj"
+  },
+  {
+    "id": "FJ1510M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1510M.obj"
+  },
+  {
+    "id": "FJ1511",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1511.obj"
+  },
+  {
+    "id": "FJ1511M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1511M.obj"
+  },
+  {
+    "id": "FJ1549",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1549.obj"
+  },
+  {
+    "id": "FJ1549M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1549M.obj"
+  },
+  {
+    "id": "FJ1550",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1550.obj"
+  },
+  {
+    "id": "FJ1550M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1550M.obj"
+  },
+  {
+    "id": "FJ1552",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1552.obj"
+  },
+  {
+    "id": "FJ1552M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1552M.obj"
+  },
+  {
+    "id": "FJ1553",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1553.obj"
+  },
+  {
+    "id": "FJ1553M",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1553M.obj"
+  },
+  {
+    "id": "FJ2744",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ2744.obj"
+  },
+  {
+    "id": "FJ2749",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ2749.obj"
+  },
+  {
+    "id": "FJ2756",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ2756.obj"
+  },
+  {
+    "id": "FJ2762",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ2762.obj"
+  },
+  {
+    "id": "FJ1320",
+    "asset": "connective",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1320.obj"
+  },
+  {
+    "id": "FJ1371",
+    "asset": "connective",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ1371.obj"
+  },
+  {
+    "id": "FJ1471",
+    "asset": "connective",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ1471_BP23035_FMA40120_Flexor%20retinaculum%20of%20right%20wrist.obj"
+  },
+  {
+    "id": "FJ1471M",
+    "asset": "connective",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ1471M_BP24090_FMA40121_Flexor%20retinaculum%20of%20left%20wrist.obj"
+  },
+  {
+    "id": "FJ2779",
+    "asset": "connective",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ2779.obj"
+  },
+  {
+    "id": "FJ2789",
+    "asset": "connective",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ2789.obj"
+  },
+  {
+    "id": "FJ2790",
+    "asset": "connective",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ2790.obj"
+  },
+  {
+    "id": "FJ2797",
+    "asset": "connective",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ2797.obj"
+  },
+  {
+    "id": "FJ2771",
+    "asset": "connective",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ2771.obj"
+  },
+  {
+    "id": "FJ2787",
+    "asset": "connective",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ2787.obj"
+  },
+  {
+    "id": "FJ2805",
+    "asset": "connective",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ2805.obj"
+  },
+  {
+    "id": "FJ2807",
+    "asset": "connective",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/jixiangying/anatomy/main/isa_BP3D_4.0_obj_99/FJ2807.obj"
+  },
+  {
+    "id": "FJ1293",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ1293_BP20304_FMA52577_Inferior%20branch%20of%20left%20oculomotor%20nerve.obj"
+  },
+  {
+    "id": "FJ1321",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ1321_BP20060_FMA52575_Superior%20branch%20of%20left%20oculomotor%20nerve.obj"
+  },
+  {
+    "id": "FJ1344",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ1344_BP20231_FMA52576_Inferior%20branch%20of%20right%20oculomotor%20nerve.obj"
+  },
+  {
+    "id": "FJ1372",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ1372_BP20049_FMA52574_Superior%20branch%20of%20right%20oculomotor%20nerve.obj"
+  },
+  {
+    "id": "FJ1381",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ1381_BP23210_FMA50881_Right%20trochlear%20nerve.obj"
+  },
+  {
+    "id": "FJ3891",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ3891_BP29534_FMA50886_Right%20abducens%20nerve.obj"
+  },
+  {
+    "id": "FJ3894",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ3894_BP29543_FMA50890_Right%20vestibulocochlear%20nerve.obj"
+  },
+  {
+    "id": "FJ3899",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ3899_BP29410_FMA65421_Trunk%20of%20right%20facial%20nerve.obj"
+  },
+  {
+    "id": "FJ3900",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ3900_BP29182_FMA52732_Ganglionic%20branch%20of%20right%20maxillary%20nerve%20to%20right%20pterygopalatine%20ganglion.obj"
+  },
+  {
+    "id": "FJ3901",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ3901_BP29500_FMA50894_Left%20glossopharyngeal%20nerve.obj"
+  },
+  {
+    "id": "FJ3923",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ3923_BP29761_FMA80695_Trunk%20of%20left%20recurrent%20laryngeal%20nerve.obj"
+  },
+  {
+    "id": "FJ3926",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ3926_BP29477_FMA18157_Trunk%20of%20left%20vagus%20nerve.obj"
+  },
+  {
+    "id": "FJ3927",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ3927_BP29502_FMA50887_Left%20abducens%20nerve.obj"
+  },
+  {
+    "id": "FJ3928",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ3928_BP29554_FMA81015_Trunk%20of%20left%20accessory%20nerve.obj"
+  },
+  {
+    "id": "FJ3929",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ3929_BP29126_FMA52733_Ganglionic%20branch%20of%20left%20maxillary%20nerve%20to%20left%20pterygopalatine%20ganglion.obj"
+  },
+  {
+    "id": "FJ3932",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ3932_BP29535_FMA50891_Left%20vestibulocochlear%20nerve.obj"
+  },
+  {
+    "id": "FJ3938",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ3938_BP29462_FMA65422_Trunk%20of%20left%20facial%20nerve.obj"
+  },
+  {
+    "id": "FJ3939",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ3939_BP29500_FMA50894_Left%20glossopharyngeal%20nerve.obj"
+  },
+  {
+    "id": "FJ3941",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ3941_BP29459_FMA80483_Trunk%20of%20left%20hypoglossal%20nerve.obj"
+  },
+  {
+    "id": "FJ3954",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ3954_BP29330_FMA80595_Trunk%20of%20left%20maxillary%20nerve.obj"
+  },
+  {
+    "id": "FJ3968",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ3968_BP29438_FMA65426_Trunk%20of%20left%20oculomotor%20nerve.obj"
+  },
+  {
+    "id": "FJ3971",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ3971_BP29086_FMA52774_Orbital%20branch%20of%20left%20maxillary%20nerve%20to%20left%20orbitalis.obj"
+  },
+  {
+    "id": "FJ3980",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ3980_BP29463_FMA65424_Trunk%20of%20left%20trigeminal%20nerve.obj"
+  },
+  {
+    "id": "FJ3981",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ3981_BP23034_FMA50882_Left%20trochlear%20nerve.obj"
+  },
+  {
+    "id": "FJ3988",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ3988_BP29403_FMA80594_Trunk%20of%20right%20maxillary%20nerve.obj"
+  },
+  {
+    "id": "FJ3999",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ3999_BP29093_FMA52773_Orbital%20branch%20of%20right%20maxillary%20nerve%20to%20right%20orbitalis.obj"
+  },
+  {
+    "id": "FJ4021",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4021_BP29389_FMA80694_Trunk%20of%20right%20recurrent%20laryngeal%20nerve.obj"
+  },
+  {
+    "id": "FJ4024",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4024_BP29476_FMA18151_Trunk%20of%20right%20vagus%20nerve.obj"
+  },
+  {
+    "id": "FJ4025",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4025_BP29541_FMA81014_Trunk%20of%20right%20accessory%20nerve.obj"
+  },
+  {
+    "id": "FJ4027",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4027_BP29430_FMA80482_Trunk%20of%20right%20hypoglossal%20nerve.obj"
+  },
+  {
+    "id": "FJ4033",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4033_BP29461_FMA65425_Trunk%20of%20right%20oculomotor%20nerve.obj"
+  },
+  {
+    "id": "FJ4034",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4034_BP29461_FMA65425_Trunk%20of%20right%20oculomotor%20nerve.obj"
+  },
+  {
+    "id": "FJ4038",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4038_BP29432_FMA65423_Trunk%20of%20right%20trigeminal%20nerve.obj"
+  },
+  {
+    "id": "FJ4039",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4039_BP23210_FMA50881_Right%20trochlear%20nerve.obj"
+  },
+  {
+    "id": "FJ4156",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4156_BP29455_FMA6201_Pericardial%20branch%20of%20phrenic%20nerve.obj"
+  },
+  {
+    "id": "FJ4157",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4157_BP29423_FMA65387_Trunk%20of%20left%20phrenic%20nerve.obj"
+  },
+  {
+    "id": "FJ4171",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4171_BP29488_FMA37074_Left%20axillary%20nerve.obj"
+  },
+  {
+    "id": "FJ4172",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4172_BP29806_FMA37071_Left%20radial%20nerve.obj"
+  },
+  {
+    "id": "FJ4224",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4224_BP29809_FMA37068_Left%20median%20nerve.obj"
+  },
+  {
+    "id": "FJ4225",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4225_BP29815_FMA37066_Left%20musculocutaneous%20nerve.obj"
+  },
+  {
+    "id": "FJ4226",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4226_BP29455_FMA6201_Pericardial%20branch%20of%20phrenic%20nerve.obj"
+  },
+  {
+    "id": "FJ4240",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4240_BP29806_FMA37071_Left%20radial%20nerve.obj"
+  },
+  {
+    "id": "FJ4243",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4243_BP29488_FMA37074_Left%20axillary%20nerve.obj"
+  },
+  {
+    "id": "FJ4245",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4245_BP29808_FMA7023_Trunk%20of%20left%20first%20thoracic%20nerve.obj"
+  },
+  {
+    "id": "FJ4248",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4248_BP29807_FMA7025_Trunk%20of%20left%20second%20thoracic%20nerve.obj"
+  },
+  {
+    "id": "FJ4258",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4258_BP29812_FMA37321_Left%20ulnar%20nerve.obj"
+  },
+  {
+    "id": "FJ4260",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4260_BP29456_FMA6442_Left%20first%20cervical%20nerve.obj"
+  },
+  {
+    "id": "FJ4261",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4261_BP29310_FMA7003_Trunk%20of%20left%20second%20cervical%20nerve.obj"
+  },
+  {
+    "id": "FJ4262",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4262_BP29408_FMA7005_Trunk%20of%20left%20third%20cervical%20nerve.obj"
+  },
+  {
+    "id": "FJ4263",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4263_BP29309_FMA7007_Trunk%20of%20left%20fourth%20cervical%20nerve.obj"
+  },
+  {
+    "id": "FJ4264",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4264_BP29324_FMA24105_Trunk%20of%20left%20fifth%20cervical%20nerve.obj"
+  },
+  {
+    "id": "FJ4265",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4265_BP29315_FMA7011_Trunk%20of%20left%20sixth%20cervical%20nerve.obj"
+  },
+  {
+    "id": "FJ4266",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4266_BP29366_FMA7013_Trunk%20of%20left%20seventh%20cervical%20nerve.obj"
+  },
+  {
+    "id": "FJ4267",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4267_BP29406_FMA7015_Trunk%20of%20left%20eighth%20cervical%20nerve.obj"
+  },
+  {
+    "id": "FJ4273",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4273_BP29300_FMA65364_Inferior%20trunk%20of%20left%20brachial%20nerve%20plexus.obj"
+  },
+  {
+    "id": "FJ4274",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4274_BP29122_FMA45239_Lateral%20cord%20of%20left%20brachial%20nerve%20plexus.obj"
+  },
+  {
+    "id": "FJ4275",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4275_BP29196_FMA45241_Medial%20cord%20of%20left%20brachial%20nerve%20plexus.obj"
+  },
+  {
+    "id": "FJ4276",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4276_BP29380_FMA65366_Middle%20trunk%20of%20left%20brachial%20nerve%20plexus.obj"
+  },
+  {
+    "id": "FJ4279",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4279_BP29423_FMA65387_Trunk%20of%20left%20phrenic%20nerve.obj"
+  },
+  {
+    "id": "FJ4280",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4280_BP29303_FMA45243_Posterior%20cord%20of%20left%20brachial%20nerve%20plexus.obj"
+  },
+  {
+    "id": "FJ4290",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4290_BP29296_FMA65362_Superior%20trunk%20of%20left%20brachial%20nerve%20plexus.obj"
+  },
+  {
+    "id": "FJ4291",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4291_BP29635_FMA75533_Set%20of%20phrenico-abdominal%20branches%20of%20phrenic%20nerve.obj"
+  },
+  {
+    "id": "FJ4426",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ4426_BP29816_FMA242005_Neural%20tissue%20of%20spinal%20cord.obj"
+  },
+  {
+    "id": "FJ7211",
+    "asset": "connective",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ7211_BP29441_FMA21965_Left%20inguinal%20ligament.obj"
+  },
+  {
+    "id": "FJ7248",
+    "asset": "connective",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ7248_BP29773_FMA57086_Left%20stylomandibular%20ligament.obj"
+  },
+  {
+    "id": "FJ7307",
+    "asset": "connective",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ7307_BP29444_FMA21964_Right%20inguinal%20ligament.obj"
+  },
+  {
+    "id": "FJ7347",
+    "asset": "connective",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ7347_BP29772_FMA57084_Right%20stylomandibular%20ligament.obj"
+  },
+  {
+    "id": "FJ7501M",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ7501M_BP23214_FMA50878_Left%20optic%20nerve.obj"
+  },
+  {
+    "id": "FJ7501",
+    "asset": "nerves",
+    "obtained": true,
+    "sourceUrl": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/main/meshes/FJ7501_BP23301_FMA50875_Right%20optic%20nerve.obj"
+  },
+  {
+    "id": "FMA13377",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/main/assets/BodyParts3D_data/stl/FMA13377.stl"
+  },
+  {
+    "id": "FMA13378",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/main/assets/BodyParts3D_data/stl/FMA13378.stl"
+  },
+  {
+    "id": "FMA13358",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/main/assets/BodyParts3D_data/stl/FMA13358.stl"
+  },
+  {
+    "id": "FMA13359",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/main/assets/BodyParts3D_data/stl/FMA13359.stl"
+  },
+  {
+    "id": "FMA49001",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/main/assets/BodyParts3D_data/stl/FMA49001.stl"
+  },
+  {
+    "id": "FMA49002",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/main/assets/BodyParts3D_data/stl/FMA49002.stl"
+  },
+  {
+    "id": "FMA49004",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/main/assets/BodyParts3D_data/stl/FMA49004.stl"
+  },
+  {
+    "id": "FMA49005",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/main/assets/BodyParts3D_data/stl/FMA49005.stl"
+  },
+  {
+    "id": "FMA49007",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/main/assets/BodyParts3D_data/stl/FMA49007.stl"
+  },
+  {
+    "id": "FMA49008",
+    "asset": "muscles",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/main/assets/BodyParts3D_data/stl/FMA49008.stl"
+  },
+  {
+    "id": "FMA58776",
+    "asset": "connective",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/main/assets/BodyParts3D_data/stl/FMA58776.stl"
+  },
+  {
+    "id": "FMA58777",
+    "asset": "connective",
+    "obtained": true,
+    "sourceUrl": "https://raw.githubusercontent.com/Kevin-Mattheus-Moerman/BodyParts3D/main/assets/BodyParts3D_data/stl/FMA58777.stl"
+  }
+]
